@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+td{
+	padding:10px;
+}
+#t3{
+	background-color:lightgrey;
+}
+#t2{
+	background-color:lightpink;
+}
+#t1{
+	background-color:red;
+}
